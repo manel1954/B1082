@@ -13,6 +13,6 @@ sudo cp Abrir_dv4mini.desktop /home/pi/Desktop
 sleep 1
 sudo rm /home/pi/Abrir_dv4mini.desktop
 
-cd /home/pi/Dv4mini
+cd /home/pi/dv4mini
 sudo mono dv4mini.exe
 
