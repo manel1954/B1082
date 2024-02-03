@@ -1,0 +1,11 @@
+--2022-05-29 21:49:41--  http://associacioader.com/prueba1.php?callBM=Callsign=EA3EIZ&callPLUS=Callsign=EAXXXX&masterBM=master.spain-dmr.es&masterPLUS=212.237.3.141&radio=master.spain-dmr.es&version=DVS-22-05-2022&ESPECIAL=tgif.network&YSFGateway=Startup=EA-C4FM-SPAIN
+Resolviendo associacioader.com (associacioader.com)... 31.214.178.77
+Conectando con associacioader.com (associacioader.com)[31.214.178.77]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 301 Moved Permanently
+Localización: http://www.associacioader.com/prueba1.php?callBM=Callsign=EA3EIZ&callPLUS=Callsign=EAXXXX&masterBM=master.spain-dmr.es&masterPLUS=212.237.3.141&radio=master.spain-dmr.es&version=DVS-22-05-2022&ESPECIAL=tgif.network&YSFGateway=Startup=EA-C4FM-SPAIN [siguiendo]
+--2022-05-29 21:49:41--  http://www.associacioader.com/prueba1.php?callBM=Callsign=EA3EIZ&callPLUS=Callsign=EAXXXX&masterBM=master.spain-dmr.es&masterPLUS=212.237.3.141&radio=master.spain-dmr.es&version=DVS-22-05-2022&ESPECIAL=tgif.network&YSFGateway=Startup=EA-C4FM-SPAIN
+Resolviendo www.associacioader.com (www.associacioader.com)... 31.214.178.77
+Reutilizando la conexión con associacioader.com:80.
+Petición HTTP enviada, esperando respuesta... 500 Internal Server Error
+2022-05-29 21:49:41 ERROR 500: Internal Server Error.
+
