@@ -2,8 +2,7 @@
 clear
 while true
 do
-SCRIPTS_version=$(awk "NR==3" /home/pi/version-fecha-actualizacion)
-#SV106=$(awk "NR==1" /home/pi/.config/autostart/version)
+
 #Colores
 ROJO="\033[1;31m"
 VERDE="\033[1;32m"
